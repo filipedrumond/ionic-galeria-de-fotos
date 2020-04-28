@@ -1,5 +1,7 @@
 {
   "name": "ionic2Berto",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
